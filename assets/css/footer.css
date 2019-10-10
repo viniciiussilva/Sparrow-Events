@@ -1,0 +1,51 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+ HEAD
+main > .container {
+  padding: 60px 15px 0;
+  
+}
+
+.footer {
+  background-color: #f5f5f5;
+  
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  
+}
+
+code {
+  font-size: 80%;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+main > .container {
+    padding: 60px 15px 0;
+  }
+  
+  .footer {
+    background-color: #331c57;
+  }
+  
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  code {
+    font-size: 80%;
+  }
+
+  .text-muted{
+      color: aliceblue !important;
+  }
+
+
